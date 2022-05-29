@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace Shop
+{
+    public partial class index : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            //string host = "";
+            //    host = "https://";
+
+            //host += HttpContext.Current.Request.Url.Host;
+            //host += "/index.aspx";
+            //if (!HttpContext.Current.Request.IsSecureConnection)
+            //    Response.Redirect(host);
+        }
+    }
+}

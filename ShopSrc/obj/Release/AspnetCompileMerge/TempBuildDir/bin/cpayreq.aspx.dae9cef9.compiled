@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/CPayReq.aspx" hash="1c0eccb9c" filehash="981c5de17983d451" flags="110000" assembly="ESPADAN" type="ASP.account_cpayreq_aspx">
+  <filedeps>
+    <filedep name="/Account/CPayReq.aspx" />
+    <filedep name="/Account/Man.Master" />
+  </filedeps>
+</preserve>

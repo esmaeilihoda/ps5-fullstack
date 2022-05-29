@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/FreeCgp.aspx" hash="1c0eccb9c" filehash="d35c1dfe9056747b" flags="110000" assembly="ESPADAN" type="ASP.account_freecgp_aspx">
+  <filedeps>
+    <filedep name="/Account/AdMan.Master" />
+    <filedep name="/Account/FreeCgp.aspx" />
+  </filedeps>
+</preserve>

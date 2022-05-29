@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Shop/product.aspx" hash="1c0eccb9c" filehash="a8c1f881245e657" flags="110000" assembly="ESPADAN" type="ASP.shop_product_aspx">
+  <filedeps>
+    <filedep name="/Shop/product.aspx" />
+    <filedep name="/Shop/ShopMain.Master" />
+  </filedeps>
+</preserve>

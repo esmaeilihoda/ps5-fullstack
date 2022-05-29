@@ -1,0 +1,21 @@
+﻿fortype1 - mpay ---> darayafti az poorsant 
+6 exchange from coin to irr, 
+
+
+fortype3 - mpay ---> pardaxt az poorsant     paytype
+1->startup       2-> pardaxt poorsant -4 startup , 6 exchaneg from irr to coin
+
+------------------------------------------------
+
+1-wallet ---> into wallet
+3-wallet ---> out from wallet , paytype 1 برای خرید جایگاه 
+3-wallet ---> out from wallet , paytype 4 پرداخت استارت آپ
+
+
+paytype 2 in mpay is zarinpal 3 is loan and 4 is startup (in)  5 is freeposition 6 IS MTT
+
+
+date p added to loan than we must to add this c# code add loan
+
+
+up from mpay is 4 is startup

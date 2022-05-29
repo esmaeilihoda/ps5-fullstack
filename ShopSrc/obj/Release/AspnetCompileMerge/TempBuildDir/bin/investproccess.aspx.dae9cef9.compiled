@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/InvestProccess.aspx" hash="1c0eccb9c" filehash="d35c0fc6ea8ab89e" flags="110000" assembly="ESPADAN" type="ASP.account_investproccess_aspx">
+  <filedeps>
+    <filedep name="/Account/AdMan.Master" />
+    <filedep name="/Account/InvestProccess.aspx" />
+  </filedeps>
+</preserve>

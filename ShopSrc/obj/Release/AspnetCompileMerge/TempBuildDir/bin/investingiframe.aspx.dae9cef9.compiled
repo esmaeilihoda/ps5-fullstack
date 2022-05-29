@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Investingiframe.aspx" hash="1c0eccb9c" filehash="2423295041c2" flags="110000" assembly="ESPADAN" type="ASP.account_investingiframe_aspx">
+  <filedeps>
+    <filedep name="/Account/Investingiframe.aspx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/indexOLD.aspx" hash="1c0eccb9c" filehash="ed3ea65c85e04549" flags="110000" assembly="ESPADAN" type="ASP.indexold_aspx">
+  <filedeps>
+    <filedep name="/indexOLD.aspx" />
+    <filedep name="/Soft.Master" />
+  </filedeps>
+</preserve>

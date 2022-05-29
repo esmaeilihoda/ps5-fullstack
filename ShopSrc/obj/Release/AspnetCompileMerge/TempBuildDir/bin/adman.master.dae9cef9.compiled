@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/AdMan.Master" hash="1c0eccb9c" filehash="fffff451e69ffdb1" flags="110000" assembly="ESPADAN" type="ASP.account_adman_master">
+  <filedeps>
+    <filedep name="/Account/AdMan.Master" />
+  </filedeps>
+</preserve>

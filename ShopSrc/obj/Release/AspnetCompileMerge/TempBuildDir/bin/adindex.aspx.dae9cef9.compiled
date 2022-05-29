@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Adindex.aspx" hash="1c0eccb9c" filehash="52f0d1c298ca7029" flags="110000" assembly="ESPADAN" type="ASP.account_adindex_aspx">
+  <filedeps>
+    <filedep name="/Account/Adindex.aspx" />
+    <filedep name="/Account/AdMan.Master" />
+  </filedeps>
+</preserve>

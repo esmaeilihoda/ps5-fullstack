@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/LoanZPay.aspx" hash="1c0eccb9c" filehash="fa0f82c003600296" flags="110000" assembly="ESPADAN" type="ASP.account_loanzpay_aspx">
+  <filedeps>
+    <filedep name="/Account/LoanZPay.aspx" />
+    <filedep name="/Account/Man.Master" />
+  </filedeps>
+</preserve>

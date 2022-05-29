@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Actions.aspx" hash="1c0eccb9c" filehash="5875bfb100119961" flags="110000" assembly="ESPADAN" type="ASP.account_actions_aspx">
+  <filedeps>
+    <filedep name="/Account/Actions.aspx" />
+    <filedep name="/Account/Man.Master" />
+  </filedeps>
+</preserve>

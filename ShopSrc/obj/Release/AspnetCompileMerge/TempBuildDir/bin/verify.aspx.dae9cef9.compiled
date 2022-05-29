@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Verify.aspx" hash="1c0eccb9c" filehash="8dc545b5197b1132" flags="110000" assembly="ESPADAN" type="ASP.account_verify_aspx">
+  <filedeps>
+    <filedep name="/Account/Man.Master" />
+    <filedep name="/Account/Verify.aspx" />
+  </filedeps>
+</preserve>
