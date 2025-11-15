@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/GetLoan.aspx" hash="1c0eccb9c" filehash="2a3bfd5dc3d1" flags="110000" assembly="ESPADAN" type="ASP.account_getloan_aspx">
-  <filedeps>
-    <filedep name="/Account/GetLoan.aspx" />
-  </filedeps>
-</preserve>

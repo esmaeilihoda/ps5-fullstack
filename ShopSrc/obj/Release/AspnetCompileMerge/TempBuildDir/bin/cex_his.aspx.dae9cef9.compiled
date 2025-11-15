@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/CEX_HIS.aspx" hash="1c0eccb9c" filehash="d35bdcc74672aa6a" flags="110000" assembly="ESPADAN" type="ASP.account_cex_his_aspx">
-  <filedeps>
-    <filedep name="/Account/AdMan.Master" />
-    <filedep name="/Account/CEX_HIS.aspx" />
-  </filedeps>
-</preserve>

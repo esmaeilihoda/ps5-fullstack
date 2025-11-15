@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Shop/Admin/ShopMenus.aspx" hash="1c0eccb9c" filehash="577396ada5f72df9" flags="110000" assembly="ESPADAN" type="ASP.shop_admin_shopmenus_aspx">
-  <filedeps>
-    <filedep name="/Shop/Admin/SAM.Master" />
-    <filedep name="/Shop/Admin/ShopMenus.aspx" />
-  </filedeps>
-</preserve>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/NMS.Master" hash="1c0eccb9c" filehash="1a4f152bcbed" flags="110000" assembly="ESPADAN" type="ASP.nms_master">
-  <filedeps>
-    <filedep name="/NMS.Master" />
-  </filedeps>
-</preserve>

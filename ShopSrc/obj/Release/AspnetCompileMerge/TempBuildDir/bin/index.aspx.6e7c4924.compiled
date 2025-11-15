@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Shop/index.aspx" hash="1c0eccb9c" filehash="62a20ef3efd3347" flags="110000" assembly="ESPADAN" type="ASP.shop_index_aspx">
-  <filedeps>
-    <filedep name="/Shop/index.aspx" />
-    <filedep name="/Shop/ShopMain.Master" />
-  </filedeps>
-</preserve>

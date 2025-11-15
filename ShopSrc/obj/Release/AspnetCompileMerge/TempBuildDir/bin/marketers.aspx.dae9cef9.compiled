@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/Marketers.aspx" hash="1c0eccb9c" filehash="2ca41a6cffda0153" flags="110000" assembly="ESPADAN" type="ASP.account_marketers_aspx">
-  <filedeps>
-    <filedep name="/Account/AdMan.Master" />
-    <filedep name="/Account/Marketers.aspx" />
-  </filedeps>
-</preserve>

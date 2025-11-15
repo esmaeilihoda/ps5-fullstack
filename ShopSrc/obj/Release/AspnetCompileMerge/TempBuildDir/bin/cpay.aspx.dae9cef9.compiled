@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/CPay.aspx" hash="1c0eccb9c" filehash="b1b5e1875f7da825" flags="110000" assembly="ESPADAN" type="ASP.account_cpay_aspx">
-  <filedeps>
-    <filedep name="/Account/CPay.aspx" />
-    <filedep name="/Account/Man.Master" />
-  </filedeps>
-</preserve>

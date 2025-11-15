@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/SendAlarm.aspx" hash="1c0eccb9c" filehash="d35bed2baf6b249a" flags="110000" assembly="ESPADAN" type="ASP.account_sendalarm_aspx">
-  <filedeps>
-    <filedep name="/Account/AdMan.Master" />
-    <filedep name="/Account/SendAlarm.aspx" />
-  </filedeps>
-</preserve>

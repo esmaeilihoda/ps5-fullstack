@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/Investing.aspx" hash="1c0eccb9c" filehash="c056f31ffba60e80" flags="110000" assembly="ESPADAN" type="ASP.account_investing_aspx">
-  <filedeps>
-    <filedep name="/Account/Investing.aspx" />
-    <filedep name="/Account/Man.Master" />
-  </filedeps>
-</preserve>

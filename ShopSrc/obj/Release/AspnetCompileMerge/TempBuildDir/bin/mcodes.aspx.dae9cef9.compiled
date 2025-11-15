@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/MCodes.aspx" hash="1c0eccb9c" filehash="8dc5359c6379bec7" flags="110000" assembly="ESPADAN" type="ASP.account_mcodes_aspx">
-  <filedeps>
-    <filedep name="/Account/Man.Master" />
-    <filedep name="/Account/MCodes.aspx" />
-  </filedeps>
-</preserve>

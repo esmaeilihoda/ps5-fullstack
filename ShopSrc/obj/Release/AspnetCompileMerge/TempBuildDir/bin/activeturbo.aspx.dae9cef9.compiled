@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Account/ActiveTurbo.aspx" hash="1c0eccb9c" filehash="5a012800a1e632ad" flags="110000" assembly="ESPADAN" type="ASP.account_activeturbo_aspx">
-  <filedeps>
-    <filedep name="/Account/ActiveTurbo.aspx" />
-    <filedep name="/Account/Man.Master" />
-  </filedeps>
-</preserve>

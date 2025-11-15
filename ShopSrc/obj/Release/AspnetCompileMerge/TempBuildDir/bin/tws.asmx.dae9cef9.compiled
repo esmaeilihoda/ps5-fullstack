@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Account/TWS.asmx" hash="c12a608" filehash="fffff36a427ad560" flags="130000" assembly="NM" type="NM.Account.TWS">
-  <filedeps>
-    <filedep name="/Account/TWS.asmx" />
-  </filedeps>
-</preserve>

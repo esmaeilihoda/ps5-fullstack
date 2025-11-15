@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Defualt.aspx" hash="1c0eccb9c" filehash="83058705ea6f1ba8" flags="110000" assembly="ESPADAN" type="ASP.defualt_aspx">
-  <filedeps>
-    <filedep name="/Defualt.aspx" />
-    <filedep name="/NMS.Master" />
-  </filedeps>
-</preserve>
