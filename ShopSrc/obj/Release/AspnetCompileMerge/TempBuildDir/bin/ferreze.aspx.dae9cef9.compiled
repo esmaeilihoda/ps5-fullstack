@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Ferreze.aspx" hash="1c0eccb9c" filehash="b6f2a7a89206b053" flags="110000" assembly="ESPADAN" type="ASP.account_ferreze_aspx">
+  <filedeps>
+    <filedep name="/Account/Ferreze.aspx" />
+    <filedep name="/Account/Man.Master" />
+  </filedeps>
+</preserve>

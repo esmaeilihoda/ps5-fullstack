@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Soft.Master" hash="1c0eccb9c" filehash="ffffe3f80af3ac20" flags="110000" assembly="ESPADAN" type="ASP.soft_master">
+  <filedeps>
+    <filedep name="/Soft.Master" />
+  </filedeps>
+</preserve>

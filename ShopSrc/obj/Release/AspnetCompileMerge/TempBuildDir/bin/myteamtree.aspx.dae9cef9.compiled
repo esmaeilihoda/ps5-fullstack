@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/MyTeamTree.aspx" hash="1c0eccb9c" filehash="8dc5537a566690b7" flags="110000" assembly="ESPADAN" type="ASP.account_myteamtree_aspx">
+  <filedeps>
+    <filedep name="/Account/Man.Master" />
+    <filedep name="/Account/MyTeamTree.aspx" />
+  </filedeps>
+</preserve>

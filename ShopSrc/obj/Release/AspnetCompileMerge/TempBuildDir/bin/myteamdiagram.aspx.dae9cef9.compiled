@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/MyTeamDiagram.aspx" hash="1c0eccb9c" filehash="8dc54bca1428fdb2" flags="110000" assembly="ESPADAN" type="ASP.account_myteamdiagram_aspx">
+  <filedeps>
+    <filedep name="/Account/Man.Master" />
+    <filedep name="/Account/MyTeamDiagram.aspx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Shop/Admin/ShopAdmin.asmx" hash="c12a608" filehash="ffffff0337a5ef23" flags="130000" assembly="NM" type="NM.Shop.Admin.ShopAdmin">
+  <filedeps>
+    <filedep name="/Shop/Admin/ShopAdmin.asmx" />
+  </filedeps>
+</preserve>

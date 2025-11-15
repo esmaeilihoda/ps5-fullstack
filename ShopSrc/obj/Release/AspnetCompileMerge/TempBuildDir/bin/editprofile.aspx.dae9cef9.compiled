@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/EditProfile.aspx" hash="1c0eccb9c" filehash="37a155896755" flags="110000" assembly="ESPADAN" type="ASP.account_editprofile_aspx">
+  <filedeps>
+    <filedep name="/Account/EditProfile.aspx" />
+  </filedeps>
+</preserve>

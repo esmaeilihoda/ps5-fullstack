@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/FreePosition.aspx" hash="1c0eccb9c" filehash="d35c1d7638f7d225" flags="110000" assembly="ESPADAN" type="ASP.account_freeposition_aspx">
+  <filedeps>
+    <filedep name="/Account/AdMan.Master" />
+    <filedep name="/Account/FreePosition.aspx" />
+  </filedeps>
+</preserve>

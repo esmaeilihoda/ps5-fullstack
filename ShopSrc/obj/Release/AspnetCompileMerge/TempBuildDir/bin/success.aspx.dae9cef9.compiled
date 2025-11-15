@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/success.aspx" hash="1c0eccb9c" filehash="723ac95e0bef2cb4" flags="110000" assembly="ESPADAN" type="ASP.account_success_aspx">
+  <filedeps>
+    <filedep name="/Account/Man.Master" />
+    <filedep name="/Account/success.aspx" />
+  </filedeps>
+</preserve>

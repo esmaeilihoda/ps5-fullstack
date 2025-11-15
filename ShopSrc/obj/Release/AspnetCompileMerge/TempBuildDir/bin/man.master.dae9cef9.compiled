@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Man.Master" hash="1c0eccb9c" filehash="ffffeb8a608fe7f2" flags="110000" assembly="ESPADAN" type="ASP.account_man_master">
+  <filedeps>
+    <filedep name="/Account/Man.Master" />
+  </filedeps>
+</preserve>
